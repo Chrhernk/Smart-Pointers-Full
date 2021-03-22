@@ -33,7 +33,7 @@ void SmartPtr_Information() // Displays all information on the types of pointers
 	std::cout << "Pros of Weak Pointers : \t Allows multiple refrence. \t Can point out of scope, without limitation. \t  " << std::endl;
 	std::cout << "Cons of Weak Pointers : \t This type of pointer can lead to issues later on in coding, such as circular refrence. " << std::endl;
 	std::cout << "When to use Weak Pointers : \t When you want a pointer that can go out of scope without limit, this would be your answer. " << std::endl;
-	std::cout << "\n\n\n\n\n\n\n\n\n\n\n" << std::endl;
+	std::cout << "\n\n\n\n\n" << std::endl;
 }
 
 void SmartPtr_Example()
